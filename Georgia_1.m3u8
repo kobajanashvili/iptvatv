@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_mtavariarxi.png" group-title="Georgia",Mtavari Arxi
-https://streaming.televizia.org/live/hls/JC1uFVMmnpS3jcUsj2zBfA/1654271821/mtavari.m3u8
+https://hls.t.stream-dns.net/hls/mtavari_1/_b698936839af4f8dd865eee9c25072f0_629cbecdx000e/index.m3u8
 
 #EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_rustavi2.png" group-title="Georgia",Rustavi2 SD
 https://streaming.televizia.org/live/hls/cCCYk_KrRMyJzdk9rwu6-g/1654270369/rustavi2.m3u8
