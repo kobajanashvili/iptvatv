@@ -6,13 +6,13 @@ https://hls.t.stream-dns.net/hls/mtavari_1/_b698936839af4f8dd865eee9c25072f0_629
 https://streaming.televizia.org/live/hls/cCCYk_KrRMyJzdk9rwu6-g/1654270369/rustavi2.m3u8
 
 #EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_rustavi2hq.png" group-title="Georgia",Rustavi2 HD
-https://streaming.televizia.org/live/hls/KQqYQ7q7Qq076wrIkhMfXw/1654271318/rustavi2.m3u8
+https://hls.t.stream-dns.net/hls/rustavi2/_54c4cd9bb9994a401e1abde2f06a5b2e_629cbf74x000d/rustavi2.m3u8
 
 #EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_imedi.png" group-title="Georgia",Imedi SD
 https://streaming.televizia.org/live/hls/Zp8cx6ubdh6rQbjBgH147w/1654272230/imedi.m3u8
 
 #EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_imedihq.png" group-title="Georgia",Imedi HD
-https://streaming.televizia.org/live/hls/uItGYB5p20NWySLaPJlhzg/1654272333/imedi.m3u8
+https://hls.t.stream-dns.net/hls/imedi/_7b87b37e9031873860af9842c71c5b91_629cbf79x000a/imedi.m3u8
 
 #EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_formula2.png" group-title="Georgia",Formula
 https://streaming.televizia.org/live/hls/XSl2oCtO3TZ5inREI8K8lw/1654272566/formula.m3u8
