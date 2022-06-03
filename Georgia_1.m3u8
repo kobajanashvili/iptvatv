@@ -20,8 +20,10 @@ https://streaming.televizia.org/live/hls/XSl2oCtO3TZ5inREI8K8lw/1654272566/formu
 #EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_pirvelitv2.png" group-title="Georgia",TV Pirveli
 https://streaming.televizia.org/live/hls/DHBJyF9rU0dx0rb8lPlTuA/1654272672/tvpirveli.m3u8
 
-#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",Mtavari Arkhi (480p)
-https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",Imedi HD Test myvideo
+https://nue01-edge01.itdc.ge/imedihd/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/AqSRphj.png" group-title="News",Palitra News
 https://livestream.palitra.ge/hls/palitratv/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/9ecTETD.png" group-title="Undefined",Rioni TV
