@@ -24,7 +24,7 @@ https://streaming.televizia.org/live/hls/DHBJyF9rU0dx0rb8lPlTuA/1654272672/tvpir
 https://hls.t.stream-dns.net/hls/imedi/_d09b8b6063f12f14386f59565ca0f854_629cbc71x000a/imedi.m3u8
 
 
-#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="News",imedi iptv timeshift
+#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",imedi iptv timeshift
 https://hls.t.stream-dns.net/hls/imedi/_626c08fe7b1d1d368a7eb747d0953506_629cbdb8x000a/imedi.m3u8
 
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/9ecTETD.png" group-title="Undefined",Rioni TV
