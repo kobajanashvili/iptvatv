@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_mtavariarxi.png" group-title="Undefined",Mtavari Arxi
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_mtavariarxi.png" group-title="Georgia",Mtavari Arxi
 https://streaming.televizia.org/live/hls/JC1uFVMmnpS3jcUsj2zBfA/1654271821/mtavari.m3u8
 
-#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_rustavi2.png" group-title="Undefined",Rustavi2 SD
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_rustavi2.png" group-title="Georgia",Rustavi2 SD
 https://streaming.televizia.org/live/hls/cCCYk_KrRMyJzdk9rwu6-g/1654270369/rustavi2.m3u8
 
-#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_rustavi2hq.png" group-title="Undefined",Rustavi2 HD
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_rustavi2hq.png" group-title="Georgia",Rustavi2 HD
 https://streaming.televizia.org/live/hls/KQqYQ7q7Qq076wrIkhMfXw/1654271318/rustavi2.m3u8
 
-#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_imedi.png" group-title="Undefined",Imedi SD
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_imedi.png" group-title="Georgia",Imedi SD
 https://streaming.televizia.org/live/hls/Zp8cx6ubdh6rQbjBgH147w/1654272230/imedi.m3u8
 
-#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_imedihq.png" group-title="Undefined",Imedi HD
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_imedihq.png" group-title="Georgia",Imedi HD
 https://streaming.televizia.org/live/hls/uItGYB5p20NWySLaPJlhzg/1654272333/imedi.m3u8
 
-#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",Macon
-https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/XVpqukA.png" group-title="Undefined",Mtavari Arkhi
-https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_formula2.png" group-title="Georgia",Formula
+https://streaming.televizia.org/live/hls/XSl2oCtO3TZ5inREI8K8lw/1654272566/formula.m3u8
+
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_pirvelitv2.png" group-title="Georgia",TV Pirveli
+https://streaming.televizia.org/live/hls/DHBJyF9rU0dx0rb8lPlTuA/1654272672/tvpirveli.m3u8
+
 #EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",Mtavari Arkhi (480p)
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/AqSRphj.png" group-title="News",Palitra News
