@@ -21,7 +21,7 @@ https://streaming.televizia.org/live/hls/XSl2oCtO3TZ5inREI8K8lw/1654272566/formu
 https://streaming.televizia.org/live/hls/DHBJyF9rU0dx0rb8lPlTuA/1654272672/tvpirveli.m3u8
 
 #EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",Imedi HD Test myvideo
-https://nue01-edge01.itdc.ge/imedihd/tracks-v1a1/mono.m3u8
+http://nue01-edge03.itdc.ge/pirvelitv/index.m3u8?token=UfCRStrvHogg88p_v4rgPTPrRzfl3gvqC0_t7WCHuL61ekVvgeE-1ioGcw22h59hzTlCnSibBhefwuJgLOwbdYh9djFk0WDcJiYe9yMpNYomo2p3L1xHFKafFvUc6JMQELcBVgaJtPn3sqdkKG1pWJcbM3e2e38kFL0xrfp5T518Y9EP2g1czcRrDn5E027o64edWiLjdUpDNgy_8Wy5dQZWi9v1VpD6FsAl5NZcJUqb4bb29jlaGigvd3LNELdnVkz2Rm6gcXKj1er1jx6KH4knxgiEB4hObXtGpDEDlynuXEgjah5JPjXmXZwzx2gW
 
 
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/AqSRphj.png" group-title="News",Palitra News
