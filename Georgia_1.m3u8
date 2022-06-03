@@ -2,15 +2,18 @@
 #EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_mtavariarxi.png" group-title="Undefined",Mtavari Arxi
 https://streaming.televizia.org/live/hls/JC1uFVMmnpS3jcUsj2zBfA/1654271821/mtavari.m3u8
 
-#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",Rustavi2 SD
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_rustavi2.png" group-title="Undefined",Rustavi2 SD
 https://streaming.televizia.org/live/hls/cCCYk_KrRMyJzdk9rwu6-g/1654270369/rustavi2.m3u8
-#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",Rustavi2 HD
+
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_rustavi2hq.png" group-title="Undefined",Rustavi2 HD
 https://streaming.televizia.org/live/hls/KQqYQ7q7Qq076wrIkhMfXw/1654271318/rustavi2.m3u8
 
-#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",CBS 13 WMAZ
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/50913?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="Undefined",Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_imedi.png" group-title="Undefined",Imedi SD
+https://streaming.televizia.org/live/hls/Zp8cx6ubdh6rQbjBgH147w/1654272230/imedi.m3u8
+
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_imedihq.png" group-title="Undefined",Imedi HD
+https://streaming.televizia.org/live/hls/uItGYB5p20NWySLaPJlhzg/1654272333/imedi.m3u8
+
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",Macon
 https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/XVpqukA.png" group-title="Undefined",Mtavari Arkhi
