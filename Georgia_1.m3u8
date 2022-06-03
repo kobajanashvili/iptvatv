@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:0 tvg-country="GE" tvg-logo="https://www.televizia.org/img/tv_mtavariarxi.png" group-title="Undefined",Mtavari Arxi
+https://streaming.televizia.org/live/hls/JC1uFVMmnpS3jcUsj2zBfA/1654271821/mtavari.m3u8
+
 #EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",Rustavi2 SD
 https://streaming.televizia.org/live/hls/cCCYk_KrRMyJzdk9rwu6-g/1654270369/rustavi2.m3u8
 #EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",Rustavi2 HD
 https://streaming.televizia.org/live/hls/KQqYQ7q7Qq076wrIkhMfXw/1654271318/rustavi2.m3u8
-#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Undefined",Albany
-https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8?checkedby:iptvcat.net
+
 #EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",CBS 13 WMAZ
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/50913?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="Undefined",Formula
